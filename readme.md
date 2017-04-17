@@ -1,5 +1,5 @@
 # Sitecore.Support.120569
-The `Failed to insert or update rows in the [Fact_FormSummary] table` error may occur when submitting a form after changing its field name.
+The `Failed to insert or update rows in the [Fact_FormSummary] table` error may occur when submitting a form after changing its field name.<br/>
 This patch fixes the described behavior.
 
 ## License  
